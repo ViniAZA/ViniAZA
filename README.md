@@ -1,6 +1,6 @@
 - 👋 Ola, meu nome é Vinicius.
-- 🌱 Estudando HTML, CSS, JavaScript e C
-- 👨🏽‍🎓 Me formando em ADS na Universidade Positivo
+- 🌱 Estudando HTML, CSS, JavaScript e C.
+- 👨🏽‍🎓 Me formando em ADS na Universidade Positivo.
 
   <div>
     <a href="https://github.com/ViniAZA">
