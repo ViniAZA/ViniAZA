@@ -5,7 +5,7 @@
   
 
   <div>
-    <a href="https://github.com/ViniAZA">
+    <a href="https://github.com/ViniciusAzambuja-Dev">
       <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=ViniciusAzambuja-Dev&show_icons=true&theme=radical">
       <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAzambuja-Dev&layout=compact&theme=radical">
   </div>
