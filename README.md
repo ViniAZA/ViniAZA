@@ -7,7 +7,7 @@
   <div>
     <a href="https://github.com/ViniAZA">
       <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=ViniAZA&show_icons=true&theme=radical">
-      <img height="145em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniAZA&layout=compact&theme=radical">
+      <img height="132em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniAZA&layout=compact&theme=radical">
   </div>
 
 <div style="display: inline_block"><br>
