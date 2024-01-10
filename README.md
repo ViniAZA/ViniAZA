@@ -1,11 +1,13 @@
-- 👋 Ola, meu nome é Vinicius.
-- 🌱 Estudando HTML, CSS, JavaScript e C.
-- 👨🏽‍🎓 Me formando em ADS na Universidade Positivo.
+  <h1><b>Seja bem vindo a este perfil!.</b></h1>
+  <p><b>Meu nome é Vinicius, tenho 18 anos, e estou me formando em Análise e Desenvolvimento de Sistemas na Universidade Positivo em Curitiba-PR. Atualmente as linguagens que estão presentes em meus estudos são HTML, CSS, JavaScript e C.</b></p>
+  
+  <h3>Muitos projetos estão por vir!</h3>
+  
 
   <div>
     <a href="https://github.com/ViniAZA">
-      <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=ViniAza&show_icons=true&theme=radical">
-      <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniAza&layout=compact&theme=radical">
+      <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=ViniAZA&show_icons=true&theme=radical">
+      <img height="145em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniAZA&layout=compact&theme=radical">
   </div>
 
 <div style="display: inline_block"><br>
