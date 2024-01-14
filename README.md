@@ -7,7 +7,6 @@
   <div>
     <a href="https://github.com/ViniciusAzambuja-Dev">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAzambuja-Dev&show_icons=true&theme=radical">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAzambuja-Dev&layout=compact&theme=radical">
   </div>
 
 <div style="display: inline_block"><br>
