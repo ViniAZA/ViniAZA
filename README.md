@@ -1,5 +1,5 @@
   <h1><b>Seja bem vindo a este perfil!.</b></h1>
-  <p><b>Meu nome é Vinicius, tenho 18 anos, e estou me formando em Análise e Desenvolvimento de Sistemas na Universidade Positivo em Curitiba-PR. Atualmente as linguagens que estão presentes em meus estudos são HTML, CSS, JavaScript e C.</b></p>
+  <p><b>Meu nome é Vinicius, tenho 18 anos, e estou me formando em Análise e Desenvolvimento de Sistemas na Universidade Positivo em Curitiba-PR. Atualmente as linguagens que estão presentes em meus estudos são HTML, CSS, JavaScript, Java, C# e C.</b></p>
   
   <h3>Muitos projetos estão por vir!</h3>
   
@@ -14,6 +14,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
  ##
