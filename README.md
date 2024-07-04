@@ -1,5 +1,5 @@
   <h1><b>Seja bem vindo a este perfil!.</b></h1>
-  <p><b>Meu nome é Vinicius, tenho 18 anos, e estou me formando em Análise e Desenvolvimento de Sistemas na Universidade Positivo em Curitiba-PR. Atualmente as linguagens que estão presentes em meus estudos são HTML, CSS, JavaScript, Java, C#, PHP, C e banco de dados MySQL</b></p>
+  <p><b>Meu nome é Vinicius, tenho 18 anos, e estou me formando em Análise e Desenvolvimento de Sistemas na Universidade Positivo em Curitiba-PR. Atualmente as linguagens que estão presentes em meus estudos são JavaScript, Java, C#, PHP, C, Spring Boot, API REST, etc..</b></p>
   
   <h3>Muitos projetos estão por vir!</h3>
   
